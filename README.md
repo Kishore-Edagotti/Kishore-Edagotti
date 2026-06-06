@@ -22,3 +22,14 @@ Currently Learning:
 
 Goal:
 Become a Java Full Stack Developer
+
+Project Progress
+
+✅ Authentication
+✅ User Management
+🔄 Role-Based Access Control
+⬜ Vendor Management
+⬜ Menu Management
+⬜ Order Processing
+⬜ Angular Integration
+⬜ AWS Deployment
